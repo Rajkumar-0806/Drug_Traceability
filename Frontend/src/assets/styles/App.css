@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #e0ffff;
+}
+
+.content {
+  margin-top: 20px;
+  margin-left: 250px; /* Matches the width of the sidebar */
+  padding: 20px;
+}
+
+footer {
+  text-align: center;
+  background-color: #00ced1;
+  padding: 20px;
+  color: white;
+  position: relative; /* Change this to relative so footer doesn't hide content */
+  width: 100%;
+  font-size: 14px;
+}
